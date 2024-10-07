@@ -8,6 +8,8 @@
 - ⚡ Fun fact Data Science always comes before any other educational topic for me.
 
 # connect with me :
+![image](https://github.com/user-attachments/assets/ec144266-4e5c-434e-81b4-0fbbac33e751)
+
 
 
 

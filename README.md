@@ -1,6 +1,6 @@
 - Hi 👋, I'm Vamsi Krishna Bitragunta
 
-<center> ![image](https://github.com/user-attachments/assets/b20f6cc8-86af-47a2-af3e-0c4611427475)</center>
+![image](https://github.com/user-attachments/assets/b20f6cc8-86af-47a2-af3e-0c4611427475)
 
 - 👀 I’m interested in Learning New Things & explore to achieve it
 - 🌱 I’m completed learning Data Science concepts like Python Programming , Python Libraries , EDA , Data Visualization , Statistics.

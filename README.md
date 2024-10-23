@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsitech-collab&label=Profile%20views&color=0e75b6&style=flat" alt="vamsitech-collab" /> </p>
 
-- 👀 I’m interested in Learning New Things & explore to achieve it .
-
 - 🌱 I’m currently learning **Flask and New Machine Learnings Models .**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VamsiTech-collab?tab=repositories](https://github.com/VamsiTech-collab?tab=repositories)
 
 - 📝 My Portfolio [https://timely-dolphin-066b41.netlify.app](https://timely-dolphin-066b41.netlify.app)
 
-- 💬 Ask me about **Python Programming ,NumPy, Pandas, Data Visualization , Statistics , Sql**
+- 💬 Ask me about **Python Programming ,NumPy, Pandas, Data Visualization , Sql**
 
 - 📫 How to reach me **vamsikrishnavb58@gmail.com**
 
@@ -21,11 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vamsi-krishna-b-43517a222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahesh-bollu-184a4a238" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/vamsikrishna501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vamsikrishna501" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/vam.si_bittu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vam.si_bittu/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vamsikrishna501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vamsikrishna501" height="30" width="40" /></a>
-<a href="https://discord.gg/6pXnVPct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/QbnvDREM" height="30" width="40" /></a>
+<a href="https://kaggle.com/vamsikrishna501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vamsikrishna501" height="30" width="40" /></a>
+<a href="https://instagram.com/vam.si_bittu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vam.si_bittu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vamsikrishna501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vamsikrishna501" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/6pXnVPct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/6pXnVPct" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

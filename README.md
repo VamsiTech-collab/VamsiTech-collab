@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsitech-collab&label=Profile%20views&color=0e75b6&style=flat" alt="vamsitech-collab" /> </p>
 
--👀 I’m interested in Learning New Things & explore to achieve it
+- 👀 I’m interested in Learning New Things & explore to achieve it
 
 - 🌱 I’m currently learning **Flask and New Machine Learnings Models .**
 

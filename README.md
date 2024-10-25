@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VamsiTech-collab?tab=repositories](https://github.com/VamsiTech-collab?tab=repositories)
 
-- 📝 My Portfolio [[https://timely-dolphin-066b41.netlify.app](https://timely-dolphin-066b41.netlify.app)](https://legendary-blancmange-064511.netlify.app)
+- 📝 My Portfolio https://legendary-blancmange-064511.netlify.app
 
 - 💬 Ask me about **Python Programming ,NumPy, Pandas, Data Visualization , Sql**
 
